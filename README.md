@@ -14,7 +14,7 @@ in /nos folder:
   npm install
 
 
-in src/socket-workers
+in src/socket-worker
 
   
   python -m venv env
