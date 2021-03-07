@@ -29,3 +29,7 @@ in src/socket-worker
 in /nos folder
   
   npm start
+
+
+# media-server http://localhost:8000/admin
+
