@@ -1,10 +1,26 @@
+# before installation
+
+software requirements
+
+· python
+· nodejs
+· npm
+
 # installation
 
-npm install
+in /nos folder: 
 
-python -m venv src/socket-workers/env
+  npm install
 
-in /socket-worker activate env and
+in src/socket-workers
 
-pip install -r requirements.txt
+  python -m venv env
 
+  source env/bin/activate
+
+  pip install -r requirements.txt
+
+# run 
+
+in /nos folder
+  npm start
