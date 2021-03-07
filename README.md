@@ -33,3 +33,5 @@ in /nos folder
 
 # media-server http://localhost:8000/admin
 
+# restful-server http://localhost:3000
+
